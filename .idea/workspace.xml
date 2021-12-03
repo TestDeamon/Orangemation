@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3019001d-21ee-4cd8-9d36-185976baaf7c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oIdtzn6fFccAIq6V3R7GRFxZwG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Foodco-project-main" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\IdeaProjects\Orangemation\resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="POM" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Orangemation">
+    <configuration type="TestNG" nameIsGenerated="true">
+      <useClassPathOnly />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="15" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Orangemation" type="TestNG">
+      <module name="Orangemation" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Orangemation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Orangemation" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.&lt;default&gt;" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3019001d-21ee-4cd8-9d36-185976baaf7c" name="Default Changelist" comment="" />
+      <created>1612978259820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612978259820</updated>
+      <workItem from="1612978273249" duration="479000" />
+      <workItem from="1612978805214" duration="4651000" />
+      <workItem from="1613029511798" duration="4012000" />
+      <workItem from="1613664996772" duration="583000" />
+      <workItem from="1613665851058" duration="1139000" />
+      <workItem from="1613741112871" duration="2552000" />
+      <workItem from="1613752680222" duration="2989000" />
+      <workItem from="1613904762841" duration="3100000" />
+      <workItem from="1613939461476" duration="2716000" />
+      <workItem from="1614174647464" duration="1926000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="3" key="#&lt;default&gt;_(1)" timestamp="1613753882598">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="392" y="3" key="#&lt;default&gt;_(1)/0.0.1366.738@0.0.1366.738" timestamp="1613753882598" />
+    <state x="392" y="16" width="596" height="705" key="#PasswordTest" timestamp="1613753774040">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="392" y="16" width="596" height="705" key="#PasswordTest/0.0.1366.738@0.0.1366.738" timestamp="1613753774040" />
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613034042778">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1613034042778" />
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1613034038558">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.738@0.0.1366.738" timestamp="1613034038558" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1614178938212">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1614178938212" />
+    <state width="1323" height="166" key="GridCell.Tab.0.bottom" timestamp="1613908150934">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="166" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1613908150934" />
+    <state width="1323" height="166" key="GridCell.Tab.0.center" timestamp="1613908150934">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="166" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1613908150934" />
+    <state width="1323" height="166" key="GridCell.Tab.0.left" timestamp="1613908150934">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="166" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1613908150934" />
+    <state width="1323" height="166" key="GridCell.Tab.0.right" timestamp="1613908150934">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="166" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1613908150934" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1613908150924">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1613908150924" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1613908150924">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1613908150924" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1613908150924">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1613908150924" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1613908150924">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1613908150924" />
+    <state x="384" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1613031068071">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="384" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1613031068071" />
+    <state x="65" y="64" key="new project wizard" timestamp="1613904835705">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="64" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1613904835705" />
+  </component>
+</project>
